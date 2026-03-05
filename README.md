@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey, I'm Chaska 👋
+
+I'm an **Operations Engineer** with my sights set on the cloud.
+
+Currently bridging the gap between keeping systems running and building scalable cloud infrastructure — one deployment at a time.
+
+### 📫 Get in Touch
+
+Feel free to connect or reach out!
 
 <!--
 **voyous/voyous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
