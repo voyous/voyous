@@ -1,12 +1,12 @@
-# Hey, I'm Chaska 👋
+# Hey, I'm Chaska.
 
-I'm an **Operations Engineer** with my sights set on the cloud.
+Technical Operations Engineer focused on cloud infrastructure, automation, and Linux.
 
-Currently bridging the gap between keeping systems running and building scalable cloud infrastructure — one deployment at a time.
+Currently building with Azure, Python, Terraform, and CI/CD, with a focus on understanding how systems work and making infrastructure reliable and repeatable.
 
-### 📫 Get in Touch
+### Get in touch
 
-Feel free to connect or reach out!
+[Portfolio](https://voyous.dev) · [LinkedIn](https://www.linkedin.com/in/chaska-a-811329118/)
 
 <!--
 **voyous/voyous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
